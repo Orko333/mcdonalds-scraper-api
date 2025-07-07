@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Data files
+mcdonalds_data.json
+
+# IDE settings
+.idea/
+.vscode/
